@@ -1,6 +1,6 @@
 # Roblox Sunucu Çökertici (Anonim DDoS+DoS+Exploit)
 
-Bu Python betiği, Roblox sunucularına karşı çeşitli ağ saldırıları ve istismarları gerçekleştirmek için tasarlanmıştır. Tor ve I2P aracılığıyla anonimlik, MAC adresi sahteciliği ve Roblox'a Lua betiklerinin kendiliğinden enjekte edilmesi gibi özellikleri içerir.
+Bu Python betiği, Roblox sunucularına karşı çeşitli ağ saldırıları ve istismarları gerçekleştirmek için tasarlanmıştır. Tor ve I2P aracılığıyla anonimlik, MAC adresi sahteciliği gibi özellikleri içerir.
 
 **⚠️ UYARI: Bu araç yalnızca eğitim amaçlıdır. İzinsiz kullanım yasa dışı ve etik dışıdır. Yazar, herhangi bir kötüye kullanımdan sorumlu değildir.**
 
@@ -14,7 +14,6 @@ Bu Python betiği, Roblox sunucularına karşı çeşitli ağ saldırıları ve 
 * **TCP Slowloris Saldırısı (DoS):** Sunucu kaynaklarını tüketmek için çok sayıda yavaş HTTP bağlantısı açar ve sürdürür. Tor'u kullanır.
 * **Güvenlik Açığı Taraması:** Nmap kullanarak hedef IP'leri açık bağlantı noktaları ve bilinen güvenlik açıkları için tarar.
 * **İstismar Girişimleri:** Sunucuyu çökertmek için tanımlanan güvenlik açıklarından yararlanmaya çalışır.
-* **Lua Betik Enjeksiyonu:** Sunucu istikrarsızlığına neden olmak için çalışan bir Roblox örneğine bir Lua betiği enjekte eder.
 * **Renkli Konsol Çıktısı:** Net ve bilgilendirici geri bildirim sağlar.
 
 ## Ön Koşullar
